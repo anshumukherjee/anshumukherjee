@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anshumukherjee
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Companies
+- 👋 Hi, I’m Anshu Mukherjee
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Engineering in Electronics & Communications 
+- 💞️ I’m looking to collaborate on Internships & Companies.
 - 📫 How to reach me by email anshus.mukherjee@gmail.com
 
 <!---
